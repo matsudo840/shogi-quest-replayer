@@ -98,6 +98,3 @@ logs
 # Claude Code
 .claude/
 CLAUDE.md
-
-# Git
-.gitignore
