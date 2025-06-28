@@ -4,7 +4,7 @@ A web application for searching Shogi Quest game records and analyzing them with
 
 ## Features
 
-- **Game Search**: Search games by username, time control, and rating range
+- **Game Search**: Search games by username, time control, and rating range (Currently using mock data. Actual search functionality is under development.)
 - **KENTO Integration**: Analyze searched games directly with KENTO
 - **Game Export**: Download/copy games in CSA format
 - **Responsive Design**: Compatible with both PC and mobile devices
@@ -73,7 +73,7 @@ src/
 
 ## TODO
 
-- [ ] Implement actual Shogi Quest API
+- [ ] Implement actual Shogi Quest API (Currently blocked due to lack of public API.)
 - [ ] Add KIF format export support
 - [ ] Add rating progression graph
 - [ ] Integrate with other external tools
